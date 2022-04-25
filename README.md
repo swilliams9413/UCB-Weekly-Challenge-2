@@ -24,4 +24,4 @@ The advantages of refactorying the code are lower memory usage, and shorter time
 
 ![All Stocks Analysis for 2018](https://github.com/swilliams9413/UCB-Weekly-Challenge-2/blob/main/VBA_Challenge_2018.jpg)
 
-![All Stocks Analysis for 2018 (Before refactorying)](https://github.com/swilliams9413/UCB-Weekly-Challenge-2/blob/main/VBA_Challenge_2018 Slow Code.jpg)
+![All Stocks Analysis for 2018 (Before refactorying)](https://github.com/swilliams9413/UCB-Weekly-Challenge-2/blob/main/VBA_Challenge_2018%20Slow%20Code.jpg)
